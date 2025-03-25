@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL : [Code Solution](https://github.com/LamineGitHub/order-summary-card)
-- Live Site URL : [Live Site](https://laminegithub.github.io/order-summary-card/)
+- Solution URL : [Code Solution](https://github.com/alaminediallo/order-summary-card)
+- Live Site URL : [Live Site](https://alaminediallo.github.io/order-summary-card/)
 
 ## My process
 
@@ -88,5 +88,5 @@ Users should be able to:
 ## Author
 
 - LinkedIn - [Lamine Diallo](https://www.linkedin.com/in/mamadou-lamine-diallo-1a8596241)
-- Frontend Mentor - [@lamine](https://www.frontendmentor.io/profile/LamineGitHub)
+- Frontend Mentor - [@lamine](https://www.frontendmentor.io/profile/alaminediallo)
 
